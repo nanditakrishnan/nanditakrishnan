@@ -44,5 +44,5 @@ I’m currently focused on building AI-first products and deepening my work in:
 ## Find me online
 
 - Website: [nanditakrishnan.com](https://nanditakrishnan.com)
-- LinkedIn: [https://www.linkedin.com/in/nanditakrishnan/]
-- GitHub: [https://github.com/nanditakrishnan]
+- LinkedIn: https://www.linkedin.com/in/nanditakrishnan/
+- GitHub:[https://github.com/nanditakrishnan
